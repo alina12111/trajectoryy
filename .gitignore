@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VS Code and PyCharm config
+.vscode/
+.idea/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (на всяк випадок)
+.ipynb_checkpoints/
+
+# Test result files
+*.log
+
+# User data files
+users_db.json
+trajectory_results.json
+
+# Python egg
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Пакети, встановлені локально
+*.whl
+
+# Backup files
+*.bak
+*.swp
